@@ -42,8 +42,6 @@ export const translationChunksConfig: TranslationChunksConfig = {
     'paymentMessages',
   ],
   myAccount: [
-    'orderDetails',
-    'orderHistory',
     'closeAccount',
     'updatePasswordForm',
     'updateProfileForm',
@@ -51,9 +49,6 @@ export const translationChunksConfig: TranslationChunksConfig = {
     'myCoupons',
     'notificationPreference',
     'myInterests',
-    'AccountOrderHistoryTabContainer',
-    'returnRequestList',
-    'returnRequest',
   ],
   pwa: ['pwa'],
   product: [
@@ -65,12 +60,11 @@ export const translationChunksConfig: TranslationChunksConfig = {
     'productReview',
     'addToCart',
     'addToWishList',
-    'CMSTabParagraphContainer',
     'stockNotification',
     'TabPanelContainer',
     'itemCounter',
     'productView',
   ],
-  user: ['anonymousConsents', 'loginRegister', 'checkoutLogin', 'authMessages'],
+  user: ['anonymousConsents', 'checkoutLogin', 'authMessages'],
   video: ['player'],
 };

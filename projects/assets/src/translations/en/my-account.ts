@@ -13,7 +13,6 @@ export const myAccount = {
     accountClosedSuccessfully: 'Account closed with success',
     accountClosedFailure: 'Failed to close account',
   },
-
   updatePasswordForm: {
     oldPassword: {
       label: 'Old Password',
